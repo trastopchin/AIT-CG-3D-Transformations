@@ -10,8 +10,6 @@ One should be able to download the [3D_transformations](https://github.com/trast
 
 ## Completed Features:
 
-1. **Avatar control: Rocket science.** The avatar has three thrusters. The UP key corresponds to a thruster that applies a force in the forward direction of the avatar; the LEFT key corresponds to a thruster that applies a force in the forwards and left direction of the avatar as well as a counterclockwise torque; the RIGHT key corresponds to a thruster that applies a force in the forwards and right direction of the avatar as well as a clockwise torque.
-
 1. **Background: Environment background as full viewport quad.** Displays an environment stored in a cube texture as the background of the 3D scene. As the camera rotates the correct part of the surrounding environment is shown.
 
 2. **Procedural solid texturing: Wood texture.** One object has a pixel shader that computes a procedural texture from the model space position.
