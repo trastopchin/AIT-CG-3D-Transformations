@@ -1,6 +1,6 @@
 # AIT-CG-3D-Transformations
 
-Create a small 3D scene implementing some features related to 3D transformations. Created as a first milestone of the 3D project for my Computer Graphics course at the Aquincum Instute of Technology the fall of 2019 with professor László Szécsi.
+Created a small 3D scene implementing some features related to 3D transformations. Created as a first milestone of the 3D project for my Computer Graphics course at the Aquincum Instute of Technology the fall of 2019 with professor László Szécsi.
 
 <p align="center">
   <img src="/resources/screenshot01.png" alt="A screenshot of the running project demonstrating each of the completed features." width="800">
