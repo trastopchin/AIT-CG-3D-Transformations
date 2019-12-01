@@ -1,12 +1,12 @@
 # AIT-CG-3D-Transformations
 
-Create a small 3D scene implementing some features related to 3D tranformations. Created as a first milestone of the 3D project for my Computer Graphics course at the Aquincum Instute of Technology the fall of 2019 with professor László Szécsi.
+Create a small 3D scene implementing some features related to 3D transformations. Created as a first milestone of the 3D project for my Computer Graphics course at the Aquincum Instute of Technology the fall of 2019 with professor László Szécsi.
 
 <p align="center">
   <img src="/resources/screenshot01.png" alt="A screenshot of the running project demonstrating each of the completed features." width="800">
 </p>
 
-One should be able to download the [2D_textures_and_physics]() folder and open up the [index.html]() file in a web browser to see the project. To navigate the scene one can use the WASD keys to move around as well as click down and drag the mouse to change the camera's orientation. In the case of google chrome, one might have to open the browser with `open /Applications/Google\ Chrome.app --args --allow-file-access-from-files` in order to load images and textures properly. This project was built upon László Szécsi's starter code and class powerpoint slides.
+One should be able to download the [3D_transformations](https://github.com/trastopchin/AIT-CG-3D-Transformations/tree/master/3D_transformations) folder and open up the [index.html](https://github.com/trastopchin/AIT-CG-3D-Transformations/blob/master/3D_transformations/graphics/index.html) file in a web browser to see the project. To navigate the scene one can use the WASD keys to move around as well as click down and drag the mouse to change the camera's orientation. In the case of google chrome, one might have to open the browser with `open /Applications/Google\ Chrome.app --args --allow-file-access-from-files` in order to load images and textures properly. This project was built upon László Szécsi's starter code and class powerpoint slides.
 
 ## Completed Features:
 
